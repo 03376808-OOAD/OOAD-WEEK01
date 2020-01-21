@@ -1,0 +1,6 @@
+1.ติดตั้ง pulg in Plant UML บน VS code และทดลองใช้
+2.สร้าง organization บน github 
+3.Fork repository ไฟล์ของอาจารย์
+	3.1 Clone : open in desktop ต้องติดตั้ง github desktop ก่อน (ลิ้งค์โหลด https://desktop.github.com/)
+	3.2 เลือกโฟลเดอร์ที่จะเก็บ repository แล้วบันทึก
+	
