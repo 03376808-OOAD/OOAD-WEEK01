@@ -3,4 +3,9 @@
 3.Fork repository ไฟล์ของอาจารย์
 	3.1 Clone : open in desktop ต้องติดตั้ง github desktop ก่อน (ลิ้งค์โหลด https://desktop.github.com/)
 	3.2 เลือกโฟลเดอร์ที่จะเก็บ repository แล้วบันทึก
-	
+	3.3 จะได้ไฟล์ที่ clone มา สร้างโฟลเดอร์ ตั้งชื่อเป็นรหัสนักศึกษา แล้วทดลองสร้างไฟล์ .txt แล้วอัพโหลดขึ้น github
+4. การอัพเดท github ที่ fork มาให้เป็นปัจจุบัน (ใช้โปรแกรม github ก็ได้) ใช้คำสั่ง 4 บรรทัด
+	4.1 git remote -v
+	4.2 git remote add upstream
+	4.3 git fetch upstream
+	4.4 git pull upstream master
