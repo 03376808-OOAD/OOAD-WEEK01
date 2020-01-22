@@ -1,0 +1,11 @@
+﻿ได้รู้ขั้นตอนการสร้าง Organizations แล้วก็ Fork มาไว้ที่ repo ตัวเอง
+ขั้นตอนต่อไปได้ดาวโหลด github desktop และ Clon ไฟล์จาก github มาไว้ที่เครื่องตัวเอง
+และก็ได้สร้างไฟล์งานของตัวเอง และทำการอัพขึ้นไปใน git แล้วก็ทำการขอ pull requests 
+
+ขั้นตอนสุดท้ายได้เรียนรู้วิธีการทำให้เครื่องของเราเหมือน repo ต้นฉบับ
+ขั้นตอนแรก ใช้ git bash เข้าไปที่โฟลเดอร์งาน โดยใช้คำสั่งต่อไปนี้
+1.git remote -v   เชื่อม upstream ไปยัง repo ต้นทาง
+2.git remote add upstream 
+3.git fetch upstream 
+4.git pull upstream master
+
