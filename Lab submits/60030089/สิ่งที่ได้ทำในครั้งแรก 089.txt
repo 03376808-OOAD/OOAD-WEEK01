@@ -1,0 +1,14 @@
+﻿1.สร้าง my organisation 
+2.fork repositoryของอาจารมาในmy organisation ของเรา
+3. ทำการclone มาในคอมพิวเตอร์ของเรา
+4.สร้างโฟลวเดอร์ 
+5.สร้าง text แล้วพิมพ์ข้อความแนะนำตัวเอง
+6.อัพไฟล์ที่พิมพ์แนะนำตัว โดยการ กดที่commit to master แล้วกด push origin
+7. แล้วทำการกด pull request แล้วให้อาจารกดยอมรับ ก็จะเสร็จสิ้นขั้นตอนการสร้างโฟลวเดอร์แล้วส่งไฟล์แนะนำตัวให้กับอาจาร
+git upstream 
+1. เปิด โปรแกรม git bash 
+2.พิมพ์คำสั่ง git remote add "repositoryต้นทาง"
+3.พิมพ์คำสั่ง git fetch upstream
+4.พิมพ์คำสั่ง git pull upstream master
+5. เมื่อเสร็จถึงขั้นตอนนี้จะมีงานทั้งหมดที่พึ่งรับมาอยู่ในคอมเของเราแล้ว ถ้าต้องการเอาขึ้นไปในorganisationของเราก็เขาตัว git desktop แล้วกดที่ push origin
+ 
